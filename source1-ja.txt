@@ -1,0 +1,47 @@
+グローバル組織で規模の大きなユーザーエクスペリエンスを提供する方法<分節 0001>
+
+7-12-2017 | Lauren Gantner | Organizational Innovation
+
+inShare
+224  
+従来の多くの組織では、彼らのユーザー（従業員、顧客、パートナー）を先に進ませないことで、新しい従業員の可能性と新しいビジネスの両方を追い払っています。
+
+彼らは時代遅れのプロセスと古い技術の網に捕まっています。
+
+彼らは顧客のリードに従うのではなく、今までのやり方を好みます。
+
+彼らはただそれに追いつくことができないのです。
+
+なにが悪いのでしょうか？
+
+彼らのほとんどは、自分の問題がユーザーの体験にあるとは考えていません。
+
+これらの巨大で分散した企業は世界中の経済の大部分を占めていますが、これらのいずれかの部分に触れる人は、退屈で複雑で使いにくい経験に直面することがよくあります。
+
+これらの伝統的な、巨大でモノリシックな組織を、企業（従業員としても顧客としても）とやりとりするために、簡単でフレンドリーで楽しいものに変えることは、大きなチャレンジです。
+
+それがエンタープライズユーザーエクスペリエンス（UX）が必要な訳です。
+
+Rosenfeld MediaのEnterprise UX Conferenceによると、Enterprise UXは、企業が、企業内、企業内、および企業内で働く人々に、有益で愉快で人道的な経験を提供することを促します。
+
+「最も成功した組織は、別のUX戦略を作成するのではなく、全体的なビジネス戦略の中でユーザーエクスペリエンスを統合すると信じています。」
+
+- ルーローゼンフェルド、UXMattersとのインタビュー
+
+リーダーとして、ユーザーエクスペリエンス戦略に努力を払わないと、非効率になったり顧客が怒ったり従業員が不満を持つことなどにつながる可能性があります。時間の経過とともに、大きな損失につながっていく可能性があるでしょう。
+
+企業がEnterprise UXに重点を置くと、次のことが可能になります。
+
+何が効果的で、何が効果的でないのかをユーザから得ることによって非効率を修正すると、企業は隠れた非効率性、不満、問題を明らかにすることになるので、で大きな金を救うことができます。
+
+Reduce risk by understanding what your customers need, what frustrates them, and how you can help them be successful.
+
+Work better and faster by building a system that makes work easier and more manageable for your employees.
+
+Breakdown silos by increasing the likelihood of adoption.
+
+When the platform is designed specifically for the users needs, they’re more likely to use the system or software, instead of creating their own method to get the job done.
+
+Together we are building a movement for Enterprise UX.
+
+With the help of passionate the leaders and attendees from the Enterprise UX Conference, we created a visual explanation that you can use to start conversations up, down, and across your organization, to help us all create the change we want to see in the world.
